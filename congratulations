@@ -1,0 +1,9 @@
+x="congratulations"
+print(str.upper(x))
+print(str.lower(x))
+str1=input("Enter your first name:")
+str2=input("Enter your last name:")
+str3=str1 +" v"+ str2
+print(str3)
+
+
